@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+html,
+body {
+	background-image: url(./assets/jaguar-xe.jpg);
+	height: 100%;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}

@@ -1,0 +1,20 @@
+button {
+	margin-left: 35px;
+	margin-bottom: 5px;
+	height: 50px;
+	width: 190px;
+	background-color: #db3030;
+	border: none;
+}
+
+a {
+	font-size: 18px;
+	color: white;
+	font-weight: bold;
+	font-family: "Roboto", sans-serif;
+	text-decoration: none;
+}
+
+button:hover {
+	background-color: #e83b43;
+}
